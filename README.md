@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osigelialex
 - 👀 I’m interested in software Engineering 
-- 🌱 I’m currently learning c++ STL
+- 🌱 I’m currently learning mobile app development
 - 📫 How to reach me osigelialex@gmail.com 
 
 <!---
