@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm currently a computer science undergraduate and ALX trainee with a specialization in Software Engineering. I enjoy problem solving and development of quality software.
+I'm currently a computer science undergraduate and ALX student with a specialization in Software Engineering. I enjoy problem solving and development of quality software.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [osigelialex@gmail](mailto:osigelialex@gmail)
