@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A backend software developer</h3>
+<h3 align="center">A CS undergrad and backend engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **flask,sql**
+- 💬 Ask me about **Flask, Express**
 
 - 📫 How to reach me **osigelialex@gmail.com**
 
