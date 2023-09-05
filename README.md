@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Welcome to my page🤓</h1>
 <h3 align="center">A CS undergrad and backend engineer with a passion for problem solving</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
