@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! 👋🏾</h1>
-<p align="center">I'm Alex, an enthusiastic Computer Science undergraduate and dedicated backend engineer with a passion for problem-solving and technology. I find great satisfaction in staying well-versed with the latest trends in the tech world, all while nurturing my love for reading.</p>
-
+<p>Welcome to my page. I'm Alex, I'm Alex, an enthusiastic Computer Science undergraduate and dedicated full stack developer with a passion for problem-solving and technology. I find great satisfaction in staying well-versed with the latest trends in the tech world, all while nurturing my love for reading.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
 
