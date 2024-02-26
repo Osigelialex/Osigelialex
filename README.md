@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Flask, Express**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **osigelialex@gmail.com**
 
