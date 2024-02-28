@@ -1,15 +1,13 @@
-<h1 align="center">Hey there! 👋🏾</h1>
-<p>Welcome to my page. I'm Alex, an enthusiastic Computer Science undergraduate and dedicated full stack developer with a passion for problem-solving and technology. I find great satisfaction in staying well-versed with the latest trends in the tech world, all while nurturing my love for reading.</p>
+<h1>Hello there! 👋🏾</h1>
+<p>I'm a software Engineeer currently looking for work/internship. I'm passionate about staying up to date with the latest trends in technology, Sharing knowledge, working with teams on teams to build projects and documenting my journey online. I'm a graduate of the ALX software Engineering programme and currently a computer Science student. Let's work together!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **osigelialex@gmail.com**
-
-- ⚡ Fun fact **I also pencil sketch**
+- 🌱 I’m currently working with Javascript, ReactJS, NodeJS(MERN) and Django.
+- 💬 I'm looking to help with open source projects, hackathons, internships and entry-level opportunities.
+- 💼 Job Interests: Software Engineer, Backend Engineer, NodeJS Engineer (Intern or Junio level).
+- 📫 View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a>
+- ⚡ Fun fact I also pencil sketch.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
