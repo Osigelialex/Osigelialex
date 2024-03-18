@@ -1,5 +1,5 @@
 <h1>Hello there! 👋🏾</h1>
-<p>I'm full Stack Web developer passionate about staying up to date with the latest trends in technology, Sharing knowledge, working with teams to build projects and documenting my journey online. I'm a graduate of the ALX software Engineering programme and currently a computer Science student. Let's work together!</p>
+<p>I'm a full Stack Web developer passionate about staying up to date with the latest trends in technology, Sharing knowledge, working with teams to build projects and documenting my journey online. I'm a graduate of the ALX software Engineering programme and currently a computer Science student. Let's work together!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
 
