@@ -1,11 +1,11 @@
 <h1>Hello there! 👋🏾</h1>
-<p>I'm a software Engineer currently looking for work/internship. I'm passionate about staying up to date with the latest trends in technology, Sharing knowledge, working with teams to build projects and documenting my journey online. I'm a graduate of the ALX software Engineering programme and currently a computer Science student. Let's work together!</p>
+<p>I'm full Stack Web developer passionate about staying up to date with the latest trends in technology, Sharing knowledge, working with teams to build projects and documenting my journey online. I'm a graduate of the ALX software Engineering programme and currently a computer Science student. Let's work together!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osigelialex" alt="osigelialex" /></a> </p>
 
-- 🌱 I’m currently working with Javascript, ReactJS, NodeJS(MERN) and Django.
+- 🌱 I’m currently working with Javascript, ReactJS, NodeJS(MERN) and Springboot.
 - 💬 I'm looking to help with open source projects, hackathons, internships and entry-level opportunities.
-- 💼 Job Interests: Software Engineer, Backend Engineer, NodeJS Engineer (Intern or Junior level).
+- 💼 Job Interests: Software Engineer, Backend Engineer, Java developer, NodeJS Engineer (Intern or Junior level).
 - 📫 View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a>
 - ⚡ Fun fact I also pencil sketch.
 
