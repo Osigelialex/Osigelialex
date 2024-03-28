@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **osigelialex@gmail.com**
 
-- View my resume [https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing](https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing)
+- View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a>
 
 - ⚡ Fun fact **I pencil Sketch**
 
