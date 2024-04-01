@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/osigeli25" target="blank"><img src="https://img.shields.io/twitter/follow/osigeli25?logo=twitter&style=for-the-badge" alt="osigeli25" /></a> </p>
 
-- 🔭 I’m currently working on [A bidding System](https://github.com/Osigelialex/bidding-system-backend)
-
 - 🌱 I’m currently learning **Springboot**
 
 - 👯 I’m looking to collaborate on **Interesting FullStack projects**
