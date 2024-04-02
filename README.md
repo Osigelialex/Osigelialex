@@ -7,6 +7,6 @@
 
 <p>🤝🏾 I am currently open to collaborate on interesting fullStack projects or hackathons. I am also available for internship positions and junior developer roles. View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a></p>
 
-- 👨‍💻 My portfolio website is available at [https://alexxo.netlify.app](https://alexxo.netlify.app)
+👨‍💻 My portfolio website is available at [https://alexxo.netlify.app](https://alexxo.netlify.app)
 
-- 📫 How to reach me **osigelialex@gmail.com**
+📫 How to reach me **osigelialex@gmail.com**
