@@ -5,7 +5,7 @@
 
 <p>💻 Some of the technologies I have worked with include, Java, Javascript, python, Springboot, React, NodeJs, Postgresql and Django. I am constantly exploring new technologies to broaden my expertise</p>
 
-<p>🤝🏾 I am currently open to collaborate on interesting fullStack projects or hackathons. I am also available for internship positions and junior developer roles. View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a></p>
+<p>🤝🏾 I am currently open to collaborate on interesting fullStack projects or hackathons. I am also available for developer roles. View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a></p>
 
 👨‍💻 My portfolio website is available at [https://alexxo.netlify.app](https://alexxo.netlify.app)
 
