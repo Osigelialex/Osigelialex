@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h3>I'm Alex, an efficient fullStack software developer with view years of experience, driven by a passion for problem-solving and technology</h3>
+<h3>I'm Alex, an efficient fullStack software developer driven by a passion for problem-solving and technology</h3>
 
 <p>🧠 I currently study computer science at Adeleke University in Nigeria and I'm an alumni of the ALX Software Engineering programme Cohort 9. I am a great communicator and enjoy working on teams to develop software. I'm a fast learner and enjoy exploring new technology to stay up to date with the demands of the market.</p>
 
