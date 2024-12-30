@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I currently study computer science at Adeleke University and I am an alumnus of the ALX Software Engineering program Cohort 9. I am a great communicator and enjoy working on teams to develop software. I'm a fast learner and constantly explore new technology to stay current with the market's demands.<br><br>🤝🏾 I am open to collaborating on interesting full-stack projects or hackathons. I am also available for developer roles. View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a><br><br>📫 How to reach me osigelialex@gmail.com
+🧠 I currently study computer science at Adeleke University and I am an alumnus of the ALX Software Engineering program Cohort 9. I am a great communicator and enjoy working on teams to develop software. I'm a fast learner and constantly explore new technology to stay current with the market's demands.<br><br>🤝🏾 I am open to collaborating on interesting full-stack projects or hackathons. I am also available for developer roles. View my resume <a href="https://docs.google.com/document/d/1FeCJNDzHBdw9-sqnRS8QfwQadZobxpZbhlWGukM1OWs/edit?usp=sharing">Here</a><br><br>📫 How to reach me alexanderosigeli@gmail.com
 
 
 ## 🌐 Socials:
