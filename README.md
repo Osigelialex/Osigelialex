@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Welcome to my Profile! 👋🏾</h1>
+<h1 align="center">Hi👋🏾, I'm Alex Osigeli</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Alex, a software developer specializing in building secure and scalable backend systems. My expertise includes a wide range of domains, such as real-time systems, background job processing, payment integrations, and more, with a focus on delivering robust and efficient solutions.<br><br>🫱🏾‍🫲🏾 Open to: Full-time/part-time backend job opportunities<br>📩 Contact: <a href="mailto:alexanderosigeli@gmail.com">alexanderosigeli@gmail.com</a></p>
+<p align="left">I'm a software developer specializing in building secure and scalable backend systems. My expertise includes a wide range of domains, such as real-time systems, background job processing, payment integrations, and more, with a focus on delivering robust and efficient solutions.<br><br>🫱🏾‍🫲🏾 Open to: Full-time/part-time backend job opportunities<br>📩 Contact: <a href="mailto:alexanderosigeli@gmail.com">alexanderosigeli@gmail.com</a></p>
 
 ###
 
