@@ -2,7 +2,7 @@
 
 I'm Alex Osigeli, a Software Engineer with a strong foundation in Backend Engineering.
 
-📖 Currently deepening my expertise in backend systems
+📖 Currently deepening my expertise in deployments & automation tools
 
 📫 Reach me: <a href="mailto:alexanderosigeli@gmail.com">alexanderosigeli@gmail.com
 </a>
